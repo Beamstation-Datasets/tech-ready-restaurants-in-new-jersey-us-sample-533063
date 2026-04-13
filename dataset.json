@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in New Jersey, US",
+  "export_job_id": "279d1c20-d481-46de-a61c-665fc295f130",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 533063,
+  "location_name": "New Jersey",
+  "location_type": "state",
+  "repo_name": "tech-ready-restaurants-in-new-jersey-us-sample-533063",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/533063/beamstation_533063_restaurants-us-nj_SAMPLE_DIST.csv",
+  "sample_pct": 9.63,
+  "sample_records": 13,
+  "sample_sha256": "d068bd4e4de3f16e6420d86fccb82aa6dd39f132ed0deffe0ef058c2266d2036",
+  "sample_size_bytes": 64808,
+  "total_records": 135,
+  "updated_at": "2026-04-08T04:49:12.571070+00:00"
+}
