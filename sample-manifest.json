@@ -1,12 +1,12 @@
 {
-  "export_job_id": "49e93bac-2068-425f-8f54-d56b89d6626e",
+  "export_job_id": "782cb054-c682-44ea-b42d-36156d646adb",
   "id_short": 533063,
-  "published_at": "2026-04-19T07:31:19Z",
+  "published_at": "2026-04-22T19:52:26Z",
   "repo_name": "tech-ready-restaurants-in-new-jersey-us-sample-533063",
   "sample_asset_name": "beamstation_533063_restaurants-us-nj_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/533063/beamstation_533063_restaurants-us-nj_SAMPLE_DIST.csv",
-  "sample_records": 9,
-  "sample_sha256": "79d37c3fa5c944cc921c3af8631cb1538e77ad163bbc6662641a6dd01cb2a419",
-  "sample_size_bytes": 49954,
-  "total_records": 96
+  "sample_records": 2,
+  "sample_sha256": "bdfdf98a546197c902d0dde5ec79b69cd852d3a4809183eed55ca843716016b3",
+  "sample_size_bytes": 24232,
+  "total_records": 29
 }
