@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in New Jersey, US
 
-> Free BeamStation sample export with 2 rows and masked direct-contact fields.
+> Free BeamStation sample export with 6 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `533063` |
 | Location | New Jersey |
 | Category | Restaurants |
-| Full dataset size | 29 records |
-| Free sample size | 2 records (6.9%) |
-| Last export | 2026-04-22T16:33:50.067479+00:00 |
+| Full dataset size | 61 records |
+| Free sample size | 6 records (9.84%) |
+| Last export | 2026-04-29T16:31:58.397956+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-new-jersey-us-sample-533063/releases/download/sample-latest/beamstation_533063_restaurants-us-nj_SAMPLE_DIST.csv) |
 
 ## What is in this sample
